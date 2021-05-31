@@ -32,4 +32,4 @@ snake.pack()
 cleaner.pack()
 
 
-tk.mainloop()  # wywołanie pętli komunikatów
+tk.mainloop()  
